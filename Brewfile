@@ -65,6 +65,7 @@ brew 'sdl_ttf'
 brew 'sox'
 brew 'swig'
 brew 'valgrind'
+brew ‘qlmarkdown’
 brew 'homebrew/python/numpy'
 brew 'homebrew/versions/glfw3'
 cask '==> Tapping caskroom/cask'
